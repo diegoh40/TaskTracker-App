@@ -25,7 +25,7 @@ TaskTracker App will Help restaurant owners keep track of employee tasks through
  -->
 ## Kanbanboard
 
-- [Kanban board link](https://github.com/users/dgonzalesi/projects/9)
+- [Kanban board link]()
 - [Kanban board initial state + screenshots + initial colaborators]
 
 - The final number of colaborators is 2:
@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone this repo locally using git and the following git command
 
   ```sh
-  git clone https://github.com/dgonzalesi/blue-dreams-front-end
+  git clone https://github.com/diegoh40/TaskTracker-App.git
   ```
 
 #### Step 2:
@@ -110,15 +110,12 @@ You may also see any lint errors in the console.
 </div>
 
 <div id="badges"align="center">
-  <a href="https://www.linkedin.com/in/daniel-g-sierra-60472719">
+  <a href="https://linkedin.com/in/daniel-ospina-la">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/dgonzalesi/">
+  <a href="https://github.com/danielospinala/">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="https://twitter.com/dgonzalesi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> 
 </div>
 <div id="badges"align="center">
 
